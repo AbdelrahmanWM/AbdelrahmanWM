@@ -27,4 +27,4 @@ I'm Abdel-Rahman, a passionate software developer with a love for crafting innov
 
 🐳 Familiar with Docker for CI/CD and issue management.
 
-🔗 Check out my [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) for more details!
+🔗 Check out my [LinkedIn](https://www.linkedin.com/in/abdel-rahmankhalifa/) for more details!
