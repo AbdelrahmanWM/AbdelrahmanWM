@@ -7,9 +7,9 @@ I'm Abdel-Rahman, a passionate software developer with a love for crafting innov
 
 💡 Proficient in:
    - Java ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+   - C++ ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
    - JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
    - TypeScript ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-   - C++ ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
    - C ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
    - Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
    - HTML ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
