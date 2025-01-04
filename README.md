@@ -43,4 +43,4 @@ I'm Abdel-Rahman, a passionate software developer with a love for crafting innov
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanWM&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanWM&layout=compact&theme=dark&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanWM&layout=donut&theme=dark&langs_count=6)
