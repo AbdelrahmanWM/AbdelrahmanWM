@@ -39,7 +39,7 @@ I'm Abdel-Rahman, a passionate software developer with a love for crafting innov
 🔗 Check out my [LinkedIn](https://www.linkedin.com/in/abdel-rahmankhalifa/) for more details!
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AbdelrahmanWM&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AbdelrahmanWM&theme=highcontrast)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanWM&theme=dark)
 
