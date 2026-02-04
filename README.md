@@ -43,6 +43,9 @@ I'm **Abdel-Rahman Khalifa**, a passionate software developer with a love for cr
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AbdelrahmanWM&theme=dark)](https://git.io/streak-stats)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanWM&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanWM&layout=compact&theme=dark&langs_count=8)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=AbdelrahmanWM&theme=dark)](https://github.com/pranesh-2005/github-readme-stats-fast)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=AbdelrahmanWM&theme=dark)](https://git.io/streak-stats)-->  
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AbdelrahmanWM&&theme=dark)](https://github.com/pranesh-2005/github-readme-stats-fast)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanWM&theme=dark)-->  
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanWM&layout=compact&theme=dark&langs_count=8)-->
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AbdelrahmanWM&layout=compact&theme=dark&langs_count=6&hide=html,css)
